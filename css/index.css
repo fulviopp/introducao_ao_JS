@@ -153,5 +153,6 @@ button[disabled=disabled], button:disabled {
 }
 
 .invisivel {
-	display: none;
+	display: block;
+	color: red;
 }
